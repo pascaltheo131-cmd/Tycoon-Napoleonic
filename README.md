@@ -1,0 +1,2 @@
+# Tycoon-Napoleonic
+Nouveauprojet chatgpt
